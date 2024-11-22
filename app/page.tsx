@@ -1,4 +1,4 @@
-import type {NextPage} from "next";
+
 import Todo from "../app/components/Todo";
 import React from 'react'
 
